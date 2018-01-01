@@ -1,2 +1,2 @@
 # basic-som
-Basic SOM in TensorFlow (jupyter notebook)
+Basic self-organizing map in TensorFlow (v. 1.4.0)
